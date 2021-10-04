@@ -11,7 +11,7 @@ body {
 
 span {
   position: absolute;
-  background: url(cutie.png);
+  background: url(tacos.jpg);
   background-size: cover;
   pointer-events: none;
   transform: translate(-50%,-50%);
